@@ -1,0 +1,27 @@
+#about{
+  padding-top:40px;
+  padding-bottom:450px;
+  background-color:lightblue;
+
+}
+
+#portfolio{
+  padding-top: 40px;
+
+}
+
+#contact{
+  padding-top: 10px;
+  text-align:left;
+  background-color:lavender;
+}
+
+#contact-info{
+  padding:10px;
+
+}
+
+ footer {
+      background-color: #f2f2f2;
+      padding: 25px;
+    }
